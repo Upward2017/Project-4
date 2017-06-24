@@ -1,0 +1,25 @@
+Homework 11 
+1.	DevOps is an enterprise software development phrase used to mean a type of agile relationship between development and IT operations. The goal is to change and improve relationship by advocating better communication and collaboration between these two business units. It can also be called a software delivery process that enhances communication and collaboration from concept to market including product management, software development and operations professionals. It also automates the process of software integration, testing, integration and infrastructure changes. It aims to establish a culture and environment where building, testing and releasing software can happen rapidly, frequently and more reliably.
+2.	GiT is a version control system that tracks changes on computer files and coordinates changes on those files among multiple users. It is primarily used for source code management in software development but it can be used to keep track of changes in any set of files. 
+3.	SVN is a centralized control version system while Git is a distributed control version system. When you commit to SVN, you are contacting a central repository, synchronizing{merging and resolving} with the centralized versions, creating a changelist and sending the changelist back to the centralized repository. The only way users could use a code after logging in is by each doing a sync. With Git, on checking out you get a complete clone of the files, data etc. You can make changes locally and share data locally before pushing it to the central repository. You can collaborate with other users without impacting the central repository.
+Continuous integration is a development practice that requires developers to integrate code into a shared repository several times a day. Each check in is then verified by an automated build, allowing teams to detect problems early. With this, errors are being detected and located quickly giving more time to building. Continuous Integration brings multiple benefits to your organization:
+•	Say goodbye to long and tense integrations
+•	Increase visibility enabling greater communication
+•	Catch issues early and nip them in the bud
+•	Spend less time debugging and more time adding features
+•	Build a solid foundation
+•	Stop waiting to find out if your code’s going to work
+•	Reduce integration problems allowing you to deliver software more rapidly
+4.	Continuous delivery is a software engineering approach in which teams produce software in short cycles ensuring that software can be reliably released at any time. It aims at building, testing and releasing software rapidly and more frequently. It reduces cost, time and risk of delivering changes by allowing for more incremental updates for applications in production. A straightforward and continuous deployment is important for continuous delivery.
+5.	Scrum is a management and control process that cuts through complexities to focus on building products that meet business needs. Management and teams are able to get their hands around the requirements and technologies, never let go, deliver working products incrementally and empirically. It is a simple framework for effective team collaboration on complex products.
+6.	Agile methodology is a software development methodology to build a software incrementally using short iterations of 1-4 weeks so that the development is aligned with the developing business needs. It adopts a process of frequent feedback where a workable product is delivered after 1-4 weeks iteration.
+7.	A release calendar is a statement on the schedule of the release of data in terms of periodicity and timeliness. An advance release calendar provides a general statement on the schedule of the release of data which is publicly disseminated so as to provide prior notice of precise release dates.
+8.	A release date is a date when a product, press release or news story will be released to the public. The release date is announced in advanced in order to alert consumers and interested parties specific details regarding the release. This may include specific details like date, time, hour or even the minute of the release.
+9.	Four reasons why business should consider devops include: 
+a.	Faster delivery times.
+b.	Greater stability/reliability.
+c.	Freeing up time to focus on value.
+d.	Improved communication and collaboration
+10.	Automation tools in Devops environment include: Terraform, Chef, Ansible, Saltstack, Puppet, juju, Jenkins, vagrant, docker, new relic, sensu, data dog.
+11.	It is important to software in test regions before delivering to production because it will help to mirror real time use of the software and allow correction of any imperfections before the product gets to the consumers.
+12.	
